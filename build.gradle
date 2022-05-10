@@ -4,6 +4,8 @@ plugins {
 }
 
 android {
+	namespace 'tool.compet.stream'
+
 	compileSdk 31
 
 	defaultConfig {
